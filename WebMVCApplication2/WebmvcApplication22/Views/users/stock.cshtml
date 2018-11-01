@@ -1,0 +1,30 @@
+﻿@model List<WebmvcApplication22.Models.Classprice>
+@{ 
+    ViewBag.Title = "stock";
+}
+
+<h2>stock</h2>
+<script>
+    setInterval(function () { window.location.reload(true); }, 10000);
+</script>
+<table>
+    <tr>
+        <th>
+            CompanyID
+        </th>
+        <th>
+           price
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.U1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.P1)
+            </td>
+            </tr>
+    }
+    </table>
