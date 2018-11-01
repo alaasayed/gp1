@@ -1,0 +1,153 @@
+{{Infobox scientist
+|name        = Ahmed Zewail
+|birth_name        = Ahmed Hassan Zewail
+| image       = File:Ahmed Zewail HD2009 Othmer Gold Medal portrait.JPG
+| image_size = 185
+| image_height=
+| caption     = Ahmed Zewail receiving the [[Othmer Gold Medal]] in 2009
+| birth_date  = {{birth date and age|mf=yes|1946|2|26}}
+| birth_place = [[Damanhour]], [[Egypt]]
+| nationality = [[Egypt]]ian, [[United States|American]]
+| field       = [[Chemistry]], [[physics]]
+| known_for   = [[Femtochemistry]]
+| students    = [[Martin Gruebele]]
+| alma_mater  = [[University of Alexandria]], [[University of Pennsylvania]]
+| work_institutions = [[California Institute of Technology]]
+| prizes      = {{nowrap|[[Peter Debye Award]] (1996)<br>[[E. Bright Wilson Award in Spectroscopy|E. Bright Wilson Award]] (1997)<br>[[Nobel Prize for Chemistry]] (1999)}}<br> [[Order of the Nile]] (1999)<br> [[Ernest Orlando Lawrence Award|E. O. Lawrence Award]] (1998)<br>[[The Franklin Institute Awards|The Franklin Medal]] ([[USA]]) (1998)<br>[[Paul Karrer Gold Medal]] (1998) <br>[[Tolman Award]] (1997)<br>[[Wolf Prize]] ([[Israel]]) (1993)<br> [[Albert Einstein World Award of Science]] (2006)<br>[[Othmer Gold Medal]] (2009)<BR> [[Priestley Medal]] ([[USA]]) (2011)<br> [[Davy Medal]] (2011)
+| Religion   = [[Muslim]]
+| website     = http://www.zewail.caltech.edu/
+| footnotes   =
+}}
+
+'''Ahmed Hassan Zewail''' ({{lang-ar|أحمد حسن زويل}}, {{IPA-arz|ˈæħmæd ˈħæsæn zeˈweːl|IPA}}; born February 26, 1946) is an [[Egyptians|Egyptian]] scientist, known as the "father of [[femtochemistry]]", he won the 1999 [[Nobel Prize in Chemistry]] for his work on [[femtochemistry]]<nowiki/> and became the first Egyptian scientist to win a [[Nobel Prize]] in a scientific field. He is the Linus Pauling Chair Professor of Chemistry, Professor of Physics, and the director of the Physical Biology Centre for Ultrafast Science and Technology ([http://ust.caltech.edu/ UST])<ref>[http://ust.caltech.edu/ The Physical Biology Centre for Ultrafast Science and Technology (UST) website.]</ref> at the [[California Institute of Technology]].
+
+== Birth and education ==
+Ahmed Hassan Zewail, was born on February 26, 1946 in [[Damanhour]], [[Kingdom of Egypt|Egypt]] and was raised in [[Desouk]].<ref>[http://gate.ahram.org.eg/Malafat/50/342/أحمد-زويل--نشأته-وتعليمه-.aspx أحمد زويل - نشأته وتعليمه] [[Al-Ahram]], 9 Dec. 2012.</ref> His father Hassan assembled bicycles and motorcycles and later became a government official. His parents stayed married for 50 years, till the death of his father in October 22, 1992.<ref name="Zewail 2002 287">{{cite book|last=Zewail|first=Ahmed|title=Voyage Through Time|year=2002|publisher=World Scientific Publishing Co. Pte. Ltd.|location=Singapore|pages=287}}</ref>
+
+He received a bachelor's and an MS degree in Chemistry from the [[Alexandria University]] before moving to the United States to complete his PhD at the [[University of Pennsylvania]] with advisor [[Robin M. Hochstrasser]].<ref name="Zewail 2002 287"/>
+He later completed a post-doctoral fellowship at the [[University of California, Berkeley]] with advisor [[Charles Bonner Harris|Charles B. Harris]].<ref name="autobio">{{cite web|last=Zewail|first=Ahmed|title=Autobiography|url=http://nobelprize.org/nobel_prizes/chemistry/laureates/1999/zewail-autobio.html|publisher=Nobelprize.org|accessdate=12 February 2011}}</ref>
+
+== Academic career ==
+After completing his post doctoral work at [[UC-Berkeley]], he was awarded a faculty appointment at the [[California Institute of Technology]] in 1976, where he has remained since 1990, he was made the first [[Linus Pauling]] Chair in Chemical Physics.<ref name="autobio"/> He became a [[naturalized citizen]] of the United States in 1982.
+
+Zewail has been nominated and will participate in President Barack Obama's [[United States President's Council of Advisors on Science and Technology|Presidential Council of Advisors on Science and Technology]] (PCAST), an advisory group of the nation's leading scientists and engineers to advise the President and Vice President and formulate policy in the areas of science, technology, and innovation.<ref>{{cite web|title=President Obama Announces Members of Science and Technology Advisory Council|url=http://www.whitehouse.gov/the_press_office/President-Obama-Announces-Members-of-Science-and-Technology-Advisory-Council/|publisher=The White House|accessdate=12 February 2011| archiveurl= http://web.archive.org/web/20110212200815/http://www.whitehouse.gov/the_press_office/President-Obama-Announces-Members-of-Science-and-Technology-Advisory-Council/| archivedate= 12 February 2011 <!--DASHBot-->| deadurl= no}}</ref>
+
+=== Research ===
+
+Zewail's key work has been as a pioneer of [[femtochemistry]]—i.e. the study of [[chemical reaction]]s across [[femtosecond]]s. Using a rapid [[ultrafast]] [[laser]] technique (consisting of [[ultrashort pulse|ultrashort]] laser flashes), the technique allows the description of reactions on very short time scales - short enough to analyse [[transition state]]s in selected chemical reactions.<ref>{{cite web|title=Press Release: The 1999 Nobel Prize in Chemistry|url=http://nobelprize.org/nobel_prizes/chemistry/laureates/1999/press.html|publisher=Nobelprize.org|accessdate=12 February 2011}}</ref>
+
+His work started with the question, how fast did the energy within an isolated large molecule like [[naphthalene]] redistribute among all the atomic motions?  They had to build an apparatus with a vacuum chamber for molecules coming out of the source as a collimated beam at supersonic speed.  The challenge was to build an ultrafast laser to be used with the molecular beam.  The beam and the picosecond laser system were interfaced.  The goal of the project began as wanting to directly measure the rate of vibrational-energy redistribution for an isolated molecule using the picosecond laser.
+
+They wanted to see the process from birth to death of a molecule.  In this experiment the isolated [[anthracene]] molecule was unexpected and contrary to popular wisdom.  During redistribution the population was oscillating coherently back and forth.  There was no decay, but there was rebirth and all molecules moved coherently in a phase.  In a large molecule, each vibrational motion is like a pendulum, but there are many motions because a molecules has many atoms.  If the motions were not coherent, the observation would have been much different.
+
+The results of this experiment revealed the significance of coherence and its existence in complex molecular systems.  The finding of coherence were significant because it showed that through the expected chaotic motions in molecules, ordered motion can be found, despite the presence of a "heat sink", which can destroy coherence and drain energy.  Coherence in molecules had not been observed before not because of a lack of coherence, but because of a lack of proper probes.  In the anthracene experiments, time and energy resolutions were introduced and correlated.
+
+Though Zewail continued studies on vibrational-energy redistributions, he started new studies on shorter time resolutions for molecules showing different chemical processes and rotational motions.<ref name="Zewail 2002 287"/>
+
+===Awards and Honours===
+
+In 1999, Zewail became the third [[Egyptians|Egyptian]] national to receive the [[Nobel Prize]]. Zewail gave his Nobel Lecture on "Femtochemistry: Atomic-Scale Dynamics of the Chemical Bond Using Ultrafast Lasers".<ref>{{cite web|title=Angewandte Chemie International Edition > Vol 39 Issue 15|url=http://onlinelibrary.wiley.com/doi/10.1002/1521-3773%2820000804%2939:15%3C2586::AID-ANIE2586%3E3.0.CO;2-O/abstract|website=Wiley Online Library|accessdate=7 March 2015}}</ref> His prize was following Egyptian president [[Anwar Al-Sadat]] (1978 in Peace), [[Naguib Mahfouz]] (1988 in Literature). [[Mohamed ElBaradei]] followed him (2005 in peace). Other international awards include the [[Wolf Prize]] in Chemistry (1993) awarded to him by the [[Wolf Foundation]], the Tolman Medal (1997), the [[Robert A. Welch Award]] (1997), the [[Othmer Gold Medal]] in 2009,<ref name=CHFAll>{{cite web|title=Past Winners of the Othmer Gold Medal |url=http://www.chemheritage.org/visit/events/awards/heritage-day-awards/past-winners--othmer.aspx|publisher=[[Chemical Heritage Foundation]]|accessdate=12 June 2014}}</ref><ref name=2009CT>{{cite news|title=Chemical Heritage Foundation Presents Ahmed Zewail with Othmer Gold Medal|url=http://www.chromatographytechniques.com/news/2009/01/chemical-heritage-foundation-presents-ahmed-zewail-othmer-gold-medal|accessdate=12 June 2014|work=Chromatography Techniques|date=27 January 2009}}</ref>  the [[Priestley Medal]] from the [[American Chemical Society]] and [[Davy Medal]] from the [[Royal Society]] in 2011.<ref>"Zewail Wins 2011 Priestley Medal", Chemical & Engineering News, p 5, June 21, 2010.</ref><ref>{{cite web|url=http://royalsociety.org/news/RS-announces-2011-Copley/|title = Royal Society announces 2011 Copley Medal recipient|publisher = The Royal Society|accessdate = 19 July 2011}}</ref> In 1999, he received Egypt's highest state honor, the [[Order of the Nile|Grand Collar of the Nile]].
+
+Zewail was awarded an honorary doctorate by [[Lund University]] in Sweden in May 2003 and is a member of the [[Royal Swedish Academy of Sciences]]. [[University of Cambridge|Cambridge University]] awarded him an [[Honorary degree|honorary]] [[Doctor of Science]] in 2006. In October 2006, Zewail received the [[Albert Einstein World Award of Science]] for his pioneering development of the new field femtoscience and for his seminal contributions to the revolutionary discipline of physical biology, creating new ways for better understanding the functional behavior of biological systems by directly visualizing them in the four dimensions of space and time.<ref>{{cite web|title=Albert Einstein World Award of Science 2006|url=http://www.consejoculturalmundial.org/winners-science-ahmedzewail.php|accessdate=August 13, 2013}}</ref> In May 2008, Zewail received an honorary doctorate from [[Complutense University of Madrid]]. In February, 2009, Zewail was awarded an honorary doctorate in arts and sciences by the [[University of Jordan]].<ref name="JT">{{cite web|url=http://jordantimes.com/?news=14610&searchFor=zewail|title=Egyptian Nobel laureate calls for ‘scientific renaissance’ in Arab world|last=Kheetan|first=Thameen|date=26 February 2009|work=Jordan Times|accessdate=2009-02-28}}</ref> In May 2010, he received a [[Doctor of Humane Letters]] from [[Southwestern University]]. in October/2011 he was awarded an honorary doctorate in science from the University of Glasgow, UK <ref>{{YouTube|i2av6EpE6kk}}</ref>
+His students include scientists like [[Martin Gruebele]]
+
+Zewail is married, and has four children.
+He also has won the King Faisal award in 1989.
+
+== Political work ==
+In June 4, 2009 speech at [[Cairo University]], US President [[Barack Obama]] announced a new Science Envoy program as part of a "new beginning between the United States and Muslims around the world." In January 2010, Ahmed Zewail, [[Elias Zerhouni]], and [[Bruce Alberts]] became the first US science envoys to Islam, visiting Muslim-majority countries from North Africa to Southeast Asia.<ref>[http://www.america.gov/st/scitech-english/2010/February/20100115082753lcnirellep0.1611902.html America.gov]</ref>
+
+When asked about rumors that he might contest the [[Egyptian presidential election, 2011|2011 Egyptian presidential election]], Ahmed Zewail said: "I am a frank man... I have no political ambition, as I have stressed repeatedly that I only want to serve Egypt in the field of science and die as a scientist."<ref name="Zewail: I have no political ambitions .. I would like service of Egypt a scientist only">[http://www.shorouknews.com/ContentData.aspx?id=133290 Zewail: I have no political ambitions .. I would like service of Egypt a scientist only]</ref>
+
+During the [[2011 Egyptian protests]] he announced his return to the country. Zewail said that he would join a committee for constitutional reform alongside [[Ayman Nour]], Mubarak's rival at the 2005 presidential elections and a leading lawyer.<ref>{{cite news |title=EGYPT: ZEWAIL RETURNS, CREDIBLE POST-MUBARAK FIGURE |author=[[ANSAmed]] |url=http://www.ansamed.info/en/egitto/news/ME.XEF12253.html |newspaper=[[ANSAmed]] |date=1 February 2011 |accessdate=5 February 2011}}</ref>
+Zewail was later mentioned as a respected figure working as an intermediary between the military regime ruling after Mubarak's resignation, and revolutionary youth groups such as the [[April 6 Youth Movement]] and young supporters of [[Mohamed ElBaradei]].<ref>{{cite news|last=Fahim|first=Kareem|title=Military Offers Assurances to Egypt and Neighbors|url=http://www.nytimes.com/2011/02/13/world/middleeast/13egypt.html|accessdate=12 February 2011|newspaper=The New York Times|date=February 12, 2011|author2=Kirkpatrick, David D.| archiveurl= http://web.archive.org/web/20110213135816/http://www.nytimes.com//2011//02//13//world//middleeast//13egypt.html| archivedate= 13 February 2011 <!--DASHBot-->| deadurl= no}}</ref>
+
+In November 2012 Zewail discussed "Technology’s Promise, Humanity’s Future” at UCSB Campbell Hall in Isla Vista, California. <ref>{{cite web|title=Technology’s Promise, Humanity’s Future|url=http://www.uctv.tv/shows/Technologys-Promise-Humanitys-Future-24776|website=University of California Television|accessdate=7 March 2015}}</ref><ref>{{cite web|title=Technology’s Promise, Humanity’s Future|url=http://www.cappscenter.ucsb.edu/news/upcoming-event-calendar/|website=Walter H. Capps Center for the Study of Ethics, Religion, and Public Life|accessdate=7 March 2015}}</ref>
+
+== Zewail City land dispute case ==
+Nile University has been fighting with Zewail City of Science and Technology, established by Nobel laureate Ahmed Zewail, for more than two years over a piece of land that both universities claim to be their own.
+
+A March 22, 2014 ruling turned down challenges to a verdict issued in April 2013 submitted by Zewail City. The court also ruled in favour of the return of Nile University students to the contested buildings.
+
+In a statement released by Nile University’s Student Union before Saturday’s decision, the students stated that the verdict would test the current government’s respect to the judiciary and its rulings.
+
+Zewail City, meanwhile, stressed in a statement released on Saturday that the recent verdict rules on an urgent level; the substantive level of the case is yet to be ruled on. Sherif Fouad, Zewail City’s spokesman and media adviser, said the verdict “adds nothing new.” It is impossible for Zewail City to implement Saturday’s verdict and take Nile University students into the buildings currently occupied by Zewail City students, he said.<ref>http://www.dailynewsegypt.com/2014/03/22/supreme-administrative-court-upholds-nile-universitys-claim-contested-land/</ref>
+
+== See also ==
+* [[Ali Moustafa Mosharafa]]
+* [[Sameera Moussa]]
+* [[List of Muslim Nobel laureates]]
+
+== Publications ==
+
+* Advances in Laser Spectroscopy I, ed. A. H. Zewail, SPIE, Bellingham, 1977
+* Advances in Laser Chemistry, ed. A. H. Zewail, Springer-Verlag, Berlin-Heidelberg, 1978
+* Photochemistry and Photobiology, Vols. 1 and 2, ed. A. H. Zewail, Harwood Academic, London, 1983
+* Ultrafast Phenomena VII, eds. C. B. Harris, E. P. Ippen, G. A. Mourou and A. H. Zewail, Springer-Verlag, Berlin-Heidelberg, 1990
+* The Chemical Bond: Structure and Dynamics, ed. A. H. Zewail, Academic Press, Boston, 1992
+* Ultrafast Phenomena VIII, eds. J.-L. Martin, A. Migus, G. A. Mourou, and A. H. Zewail, Springer-Verlag, Berlin-Heidelberg, 1993
+* Ultrafast Phenomena IX, eds.
+* [[Age of Science]] (autobiography)
+* [http://www.worldscientific.com/worldscibooks/10.1142/2331-vol1 Femtochemistry: Ultrafast Dynamics of the Chemical Bond Vol.] I, A. H. Zewail, World Scientific, 1994
+* [http://www.worldscientific.com/worldscibooks/10.1142/2331-vol2 Femtochemistry: Ultrafast Dynamics of the Chemical Bond Vol.II], A. H. Zewail, World Scientific, 1994
+* [http://www.worldscientific.com/worldscibooks/10.1142/p559 Physical Biology: From Atoms to Medicine], ed. A. H. Zewail, Imperial College Press, London, 2008
+* [http://www.worldscibooks.com/chemistry/p641.html 4D Electron Microscopy], ed. A. H. Zewail, Imperial College Press, London, 2009
+* [[Encyclopedia of Analytical Chemistry]] (editor)
+* [http://www.worldscientific.com/worldscibooks/10.1142/5250 Voyage Through Time: Walks of Life to the Nobel Prize], Ahmed H Zewail, World Scientific, 2002
+* [http://www.worldscientific.com/worldscibooks/10.1142/p953 4D Visualization of Matter: Recent Collected Works of Ahmed H Zewail, Nobel Laureate], Imperial College Press, London, 2014
+
+== References ==
+{{reflist|2}}
+
+== External links ==
+* {{Twitter|_zewail_|Ahmed Zewail}}
+*[http://www.its.caltech.edu/~femto/ Ahmad Zewail's Caltech website]
+*[http://nobelprize.org/nobel_prizes/chemistry/laureates/1999/zewail-lecture.html Zewail Nobel Prize lecture]
+*[http://www.saudiaramcoworld.com/issue/201001/the.world.s.fastest.scientist.htm Article about Zewail]
+
+{{Wolf Prize in Chemistry}}
+{{Nobel Prize in Chemistry Laureates 1976-2000}}
+{{1999 Nobel Prize winners}}
+{{Albert Einstein World Award of Science Laureates|state=collapsed}}
+
+{{Authority control}}
+
+{{Persondata <!-- Metadata: see [[Wikipedia:Persondata]]. -->
+| NAME              = Zewail, Ahmed H.
+| ALTERNATIVE NAMES =
+| SHORT DESCRIPTION = American Egyptian chemist
+| DATE OF BIRTH     = February 26, 1946
+| PLACE OF BIRTH    = [[Damanhour]], [[Egypt]]
+| DATE OF DEATH     =
+| PLACE OF DEATH    =
+}}
+{{DEFAULTSORT:Zewail, Ahmed H.}}
+[[Category:1946 births]]
+[[Category:Albert Einstein World Award of Science Laureates]]
+[[Category:Arab scientists|American]]
+[[Category:American Muslims]]
+[[Category:American Nobel laureates]]
+[[Category:Egyptian emigrants to the United States]]
+[[Category:American people of Arab descent]]
+[[Category:Egyptian chemists]]
+[[Category:Egyptian Nobel laureates]]
+[[Category:Foreign Members of the Royal Society]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Members of the Pontifical Academy of Sciences]]
+[[Category:Members of the Royal Swedish Academy of Sciences]]
+[[Category:Foreign Members of the Russian Academy of Sciences]]
+[[Category:Foreign Members of the Chinese Academy of Sciences]]
+[[Category:Foreign Fellows of the Indian National Science Academy]]
+[[Category:Nobel laureates in Chemistry]]
+[[Category:American physical chemists]]
+[[Category:Wolf Prize in Chemistry laureates]]
+[[Category:California Institute of Technology faculty]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:Living people]]
+[[Category:Egyptian Muslims]]
+[[Category:Spectroscopists]]
+[[Category:Alexandria University alumni]]
+[[Category:Fellows at the University of California, Berkeley]]
+[[Category:Alexander von Humboldt Fellows]]
+[[Category:Guggenheim Fellows]]
+[[Category:Egyptian Inventors]]

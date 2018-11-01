@@ -1,0 +1,17 @@
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe.config
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.pdb
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.csprojResolveAssemblyReference.cache
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.exe
+c:\users\owner\documents\visual studio 2013\Projects\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.pdb
+C:\Users\Owner\Desktop\wikitrans\New folder\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe.config
+C:\Users\Owner\Desktop\wikitrans\New folder\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.exe
+C:\Users\Owner\Desktop\wikitrans\New folder\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.pdb
+C:\Users\Owner\Desktop\wikitrans\New folder\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe
+C:\Users\Owner\Desktop\wikitrans\New folder\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.pdb
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe.config
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.exe
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.pdb
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.exe
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\bin\Debug\WIKIAPPLICATION.pdb
+C:\Users\Owner\Desktop\gpversion1.1\WIKIAPPLICATION\WIKIAPPLICATION\obj\Debug\WIKIAPPLICATION.csprojResolveAssemblyReference.cache
